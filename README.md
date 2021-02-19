@@ -61,6 +61,7 @@
 * 宏观经济大数据系列研究
     * [宏观经济大数据系列研究之一：构建国家经济大脑的实践探索与初步设想](http://www.sic.gov.cn/News/609/10515.htm)
     * [宏观经济大数据系列研究之二：大数据在经济监测预测研究中的应用进展](http://www.sic.gov.cn/News/610/10516.htm)
+
 * [当计量经济学遇上机器学习](https://cloud.tencent.com/developer/news/191191)
 * [行为经济学与人工智能研究报告](https://static.aminer.cn/misc/article/economic.pdf)
 
