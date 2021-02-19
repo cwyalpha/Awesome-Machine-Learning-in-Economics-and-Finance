@@ -57,8 +57,9 @@
     * [Reddit WallStreetBets Posts since 2012](https://www.kaggle.com/unanimad/reddit-rwallstreetbets)
 
 ## Links
-* 计量经济学和机器学习
-    * https://cloud.tencent.com/developer/news/191191
+* 当计量经济学遇上机器学习
+    * [When Econometrics Meets Machine Learning](https://content.sciendo.com/downloadpdf/journals/dim/1/2/article-p75.xml)
+    * [links](https://cloud.tencent.com/developer/news/191191)
 * [12个场景应用，百余种算法，AI是如何攻占经济学的？](https://www.leiphone.com/news/202005/rFDeS2HfFBnXYN7K.html)
 * [行为经济学与人工智能研究报告](https://static.aminer.cn/misc/article/economic.pdf)
 * 宏观经济大数据系列研究
