@@ -1,10 +1,17 @@
 # Awesome Machine Learning in Economics and Finance
 
+- [Researchers](#researchers)
 - [Papers](#papers)
 - [Lectures and Books](#lectures-and-books)
 - [Frameworks](#frameworks)
 - [Case Studies](#case-studies)
 - [Links](#links)
+
+## Researchers
+* Susan Athey
+    * [Susan Athey The Economics of Technology Professor, Stanford Graduate School of Business](https://athey.people.stanford.edu/)
+    * [Stanford faculty](https://www.gsb.stanford.edu/faculty-research/faculty/susan-athey)
+    * [Google Scholar](https://scholar.google.com/citations?user=UdaJi94AAAAJ&hl=en)
 
 ## Papers
 * [Comprehensive Review of Deep Reinforcement Learning Methods and Applications in Economics](https://arxiv.org/ftp/arxiv/papers/2004/2004.01509.pdf)
