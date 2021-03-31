@@ -12,6 +12,7 @@
     * [Susan Athey The Economics of Technology Professor, Stanford Graduate School of Business](https://athey.people.stanford.edu/)
     * [Stanford faculty](https://www.gsb.stanford.edu/faculty-research/faculty/susan-athey)
     * [Google Scholar](https://scholar.google.com/citations?user=UdaJi94AAAAJ&hl=en)
+    * [Econometric Theory and Machine Learning](https://athey.cardinalsites.acsitefactory.com/research#econometric)
 
 ## Papers
 * [Comprehensive Review of Deep Reinforcement Learning Methods and Applications in Economics](https://arxiv.org/ftp/arxiv/papers/2004/2004.01509.pdf)
